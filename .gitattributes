@@ -1,3 +1,3 @@
-*.html linguist-detectable=false  
+*.html Linguist-detectable=false  
 *.php linguist-detectable=true  
-*.html linguist-language=php
+*.html Linguist-language=php
