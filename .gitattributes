@@ -1,2 +1,1 @@
-
-*.css linguist-language=Php
+*.html linguist-detectable=false  
